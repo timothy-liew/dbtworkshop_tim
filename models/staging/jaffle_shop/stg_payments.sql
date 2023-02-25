@@ -1,5 +1,5 @@
 select 
-    id as payment_id,
+    id as customer_id,
     orderid as order_id,
     status,
     amount,
