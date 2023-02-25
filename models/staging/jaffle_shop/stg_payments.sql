@@ -4,4 +4,5 @@ select
     status,
     amount,
     created
+    
 from stripe.payment
